@@ -1,0 +1,6 @@
+{
+    '101':{'name':'Cake', 'pr':100, 'qn': 10},
+    '102':{'name':'Pastry', 'pr':300, 'qn': 20},
+    '103':{'name':'Jalabee', 'pr':150, 'qn': 30}
+    '104':{'name':'samosa', 'pr':100, 'qn': 15}
+}
